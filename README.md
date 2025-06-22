@@ -26,7 +26,7 @@ Serial.println(String(channel_1) + "," + String(channel_2));
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE.md).
+This project is licensed under the [GNU General Public License version 3](LICENSE).
 
 It uses Qt libraries licensed under the GNU Lesser General Public License version 3 (LGPLv3).  
 For details, see [https://www.gnu.org/licenses/lgpl-3.0.html](https://www.gnu.org/licenses/lgpl-3.0.html).
